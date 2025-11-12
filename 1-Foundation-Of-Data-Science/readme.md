@@ -18,7 +18,7 @@ In this part of the course, you will explore examples of the ways data-driven in
 
 ### Module 3: Your career as a data professional
 
-You will learn what it means to have a career as a data professional. In this section, you’ll examine the required skills of a data analyst and compare it to many other data professional roles. Then you’ll discover how data professionals work with there peers and with cross-functional teams.
+You will learn what it means to have a career as a data professional. In this section, you’ll examine the required skills of a data analyst and compare it to many other data professional roles. Then you’ll discover how data professionals work with their peers and with cross-functional teams.
 
 ### Module 4: Data applications and workflow
 
